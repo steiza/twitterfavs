@@ -1,0 +1,3 @@
+- index.mako should really just contain enough information to show the loading screen. Then an AJAX call could actually get the data from Twitter.
+- Could add in a handler to help obtain OAuth credentials
+- Webserver could cache information so Twitter API doesn't have to get hit all the time.
