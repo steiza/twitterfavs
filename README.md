@@ -6,7 +6,9 @@ Useful for a company as an easy customer testimonial wall.
 
 ## Getting it running
 
-- Enter your Twitter OAuth credentials in webserver.py (look for XXX). Hopefully you already know how to get this!
+- (If you don't already have Twitter OAuth credentials) Run threelegs.py to get OAuth credentials.
+
+- Enter your credentials in webserver.py (look for XXX).
 
 - Install Python dependencies: pip install -r requirements.txt
 
